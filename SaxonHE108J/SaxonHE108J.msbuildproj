@@ -1,4 +1,4 @@
-<Project Sdk="IKVM.NET.Sdk/8.4.4">
+<Project Sdk="IKVM.NET.Sdk/8.4.5">
     <PropertyGroup>
         <TargetFrameworks>netcoreapp3.1</TargetFrameworks>
     </PropertyGroup>
